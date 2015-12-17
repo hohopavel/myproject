@@ -1,0 +1,12 @@
+/* 전페이지 공통 */
+.page { margin: 0 auto; width: 810px; height: 1440px;}
+
+/* 메인 페이지 */
+#page-1 { background: url('images/bg_main.png'); }
+#page-1 img { width: 200px; }
+
+/* 사진 콘테스트 페이지 */
+#page-2 { background: url('images/bg_gallary.png'); }
+
+/* 가입 신청 페이지 */
+#page-3 { }
